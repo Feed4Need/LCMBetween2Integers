@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583302357 source:c:\users\isaac\onedrive\desktop\university\y1-s1\engg1003-introduction to procedural programming\lowestmultiplebetween2numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
